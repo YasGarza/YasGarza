@@ -13,13 +13,11 @@ const yas = {
     askMeAbout: ["web dev", "app dev", "astronomy", "physics", "baking"],
     technologies: {
         backEnd: ["VbScript", "JS"],
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
+        mobileApp: ["Kotlin", "Swift"],
         misc: ["Firebase"]
     },
     currentFocus: "Mobile App Development",
-    learning: ["Best practices for mobile architecture", "Improve code cleanness"]
+    learning: ["Best practices for mobile architecture", "Improve code cleanness", "Vue.js"],
     hobbies: ["Knitting", "Roller skate", "Bake"]
 };
 ```
