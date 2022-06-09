@@ -1,7 +1,7 @@
 Hi, I'm Yasmin Garza 👩🏻‍💻
 ---
 
-<p><em>Jr. Developer @<a href="http://www.zionesport.com">zione.sport</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mobile Application Developer @<a href="http://www.zionesport.com">zione.sport</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media4.giphy.com/media/gyr5H37A484WqdFXJ7/giphy.gif?cid=790b7611d3ed845911d290f4b943d539842ff9a13b0d7677&amp;rid=giphy.gif&amp;ct=s" width="40" height="40"> <span style="line-height: 40px;vertical-align: top;">A little about me... </span>
